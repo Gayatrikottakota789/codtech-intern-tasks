@@ -12,6 +12,12 @@ Distributed processing (e.g., filtering, aggregation)
 Insights and visualizations if applicable
 Recommended Tools:
 PySpark, Dask, pandas, matplotlib
+
+
+
+
+
+
 **Taks-2 : Predictive analysis using machine learning:**
 1. Data Loading
 Loaded the CSV file using pandas.
@@ -40,10 +46,23 @@ pandas — for data handling
 matplotlib, seaborn — for visualization
 sklearn — for model training and evaluation
 
+
+
+
+
+
+
 **Task-3:Dashboard development using powerBI**
 In this i developed a interactive dashboard using sales data
 in this i want to analyse the which city , segment , product arev having high sales. 
-Very intresting task among the 4 **
+Very intresting task among the 4 
+
+
+
+
+
+
+
 **Task-4: sentimental analysis**
 1. Data Loading
 Loaded a dataset of movie reviews using pandas.
